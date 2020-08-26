@@ -1,0 +1,30 @@
+body {
+    background: white ;
+}
+
+section {
+    background: whitesmoke;
+}
+
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: blueviolet;
+}
+
+h2 {
+    color: coral;
+}
+.special-header {
+    color: #2A7F62
+}
+
+a {
+    color: mediumseagreen;
+}
+nav a {
+    color: magenta;
+}
