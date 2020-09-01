@@ -1,28 +1,28 @@
 body {
-    background: white ;
+  background: white;
 }
 
 section {
-    background: whitesmoke;
+  background: whitesmoke;
 }
 
-
-h1 {
-    color: blue;
+.main-heading {
+  color: red;
 }
 
-
-
-h2 {
-    color: coral;
+.secondary-heading {
+  color: green;
 }
-.special-header {
-    color: #2A7F62
+.special-heading {
+  color: purple;
 }
 
 a {
-    color: mediumseagreen;
+  color: mediumseagreen;
 }
 nav a {
-    color: magenta;
+  color: magenta;
+}
+.header {
+  background-color: mediumturquoise;
 }
